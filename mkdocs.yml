@@ -1,0 +1,24 @@
+site_name: 'fuck the app'
+site_url: 'https://fuckthe.app'
+site_description: 'coming soon'
+site_author: 'xlzd'
+repo_name: 'xlzd/fuck-the-app'
+repo_url: 'https://github.com/xlzd/fuck-the-app'
+copyright: 'Copyright &copy; 2018 <a href="https://xlzd.me" target="_blank">xlzd</a>'
+
+theme:
+  name: 'material'
+  icon: 'bug_report'
+  language: 'zh'
+  palette:
+    primary: 'FFEE58'
+    accent: 'FFEE58'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/xlzd'
+    - type: 'twitter'
+      link: 'https://twitter.com/xlzd'
+pages:
+  - "Life is short, Keep away from the fucking app.": "index.md"
