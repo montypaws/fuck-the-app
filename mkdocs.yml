@@ -26,5 +26,5 @@ pages:
   - "首页": "index.md"
   - "Android/iOS APP": "mobile.md"
   - "macOS APP": "macOS.md"
-  - "Windows APP": "Windows.md"
+  - "Windows APP": "windows.md"
   - "提交 MR": "CONTRIBUTING.md"
