@@ -1,3 +1,3 @@
-# fuck the app
+# macOS APP
 
 ## coming soon.

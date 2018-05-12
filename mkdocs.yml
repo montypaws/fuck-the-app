@@ -1,11 +1,10 @@
 site_name: 'fuck the app'
 site_url: 'https://fuckthe.app'
-site_description: 'coming soon'
+site_description: '人生苦短，远离垃圾 APP'
 site_author: 'xlzd'
 repo_name: 'xlzd/fuck-the-app'
 repo_url: 'https://github.com/xlzd/fuck-the-app'
 copyright: 'Copyright &copy; 2018 <a href="https://xlzd.me" target="_blank">xlzd</a>'
-
 theme:
   name: 'material'
   icon: 'bug_report'
@@ -13,12 +12,19 @@ theme:
   palette:
     primary: 'FFEE58'
     accent: 'FFEE58'
-
 extra:
+  feature:
+    tabs: true
+  search:
+    language: 'jp'
   social:
     - type: 'github'
       link: 'https://github.com/xlzd'
     - type: 'twitter'
       link: 'https://twitter.com/xlzd'
 pages:
-  - "Life is short, Keep away from the fucking app.": "index.md"
+  - "首页": "index.md"
+  - "Android/iOS APP": "mobile.md"
+  - "macOS APP": "macOS.md"
+  - "Windows APP": "Windows.md"
+  - "提交 MR": "CONTRIBUTING.md"

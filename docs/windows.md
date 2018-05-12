@@ -1,3 +1,3 @@
-# fuck the app
+# Windows APP
 
 ## coming soon.
