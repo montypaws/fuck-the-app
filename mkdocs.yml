@@ -20,8 +20,6 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/xlzd'
-    - type: 'twitter'
-      link: 'https://twitter.com/xlzd'
 pages:
   - "首页": "index.md"
   - "Android/iOS APP": "mobile.md"
